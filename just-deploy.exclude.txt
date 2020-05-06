@@ -1,0 +1,8 @@
+just-deploy.php
+just-deploy.config.php
+just-deploy.exclude.txt
+.git
+.idea
+node_modules
+vendor
+
